@@ -1,0 +1,32 @@
+
+Nov 12, 2024 10:46:55.69 NEW SESSION
+Nov 12, 2024 10:46:55.69 [10536:13856:1112/104655.688:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+Nov 12, 2024 10:46:58.82 [10536:14528:1112/104658.828:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 10:46:59.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 12, 2024 10:47:24.38 [10536:14528:1112/104724.388:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 10:48:23.53 [10536:14528:1112/104823.532:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 10:49:19.73 [10536:14528:1112/104919.735:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Nov 12, 2024 11:12:55.35 [10536:14528:1112/111255.358:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 11:16:02.16 [10536:14528:1112/111602.166:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2024 11:16:05.63 [10536:13856:1112/111605.639:ERROR:device_event_log_impl.cc(192)] [11:16:05.638] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 12, 2024 11:16:06.35 [10536:14528:1112/111606.359:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2024 11:16:12.66 [10536:14528:1112/111612.666:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2024 11:16:32.78 [10536:14528:1112/111632.788:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2024 11:16:38.78 [10536:14528:1112/111638.780:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 11:21:38.87 [10536:14528:1112/112138.869:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Nov 12, 2024 11:27:23.74 [10536:14528:1112/112723.740:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 11:32:15.72 [10536:14528:1112/113215.724:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Nov 12, 2024 11:57:36.98 [10536:14528:1112/115736.980:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2024 11:57:38.16 [10536:14528:1112/115738.161:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2024 11:57:41.18 [10536:14528:1112/115741.187:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2024 11:59:21.31 [10536:14528:1112/115921.317:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2024 12:02:21.49 [10536:14528:1112/120221.497:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2024 12:09:05.58 [10536:14528:1112/120905.582:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2024 12:19:05.59 [10536:14528:1112/121905.593:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2024 12:29:05.61 [10536:14528:1112/122905.613:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2024 12:45:26.52 [10536:14528:1112/124526.522:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2024 12:46:44.56 [10536:14528:1112/124644.562:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 12:47:11.92 [10536:14528:1112/124711.928:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 12:48:02.39 [10536:14528:1112/124802.396:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 12:49:35.04 [10536:14528:1112/124935.042:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 12, 2024 12:52:46.11 [10536:14528:1112/125246.111:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
